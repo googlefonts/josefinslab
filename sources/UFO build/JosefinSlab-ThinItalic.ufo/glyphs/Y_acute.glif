@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute" format="2">
+  <advance width="718"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <component base="Y" identifier="BE2296B1"/>
+    <component base="acute" xOffset="374" yOffset="271" identifier="D7B6AED3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:42:56 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BE2296B1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D7B6AED3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ograve" format="2">
+  <advance width="786"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <component base="O" identifier="7F082081"/>
+    <component base="grave" xOffset="435" yOffset="271" identifier="BF0AB22F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:42:56 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7F082081</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BF0AB22F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

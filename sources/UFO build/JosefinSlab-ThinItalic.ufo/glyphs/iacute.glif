@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="244"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <component base="dotlessi" identifier="28DC24A3"/>
+    <component base="acute" xOffset="87" identifier="92192943"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:42:56 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>28DC24A3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>92192943</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

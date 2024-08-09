@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oacute" format="2">
+  <advance width="461"/>
+  <unicode hex="00F3"/>
+  <outline>
+    <component base="o" identifier="7DA5D407"/>
+    <component base="acute" xOffset="131" identifier="93B7FCF5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:43:06 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7DA5D407</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>93B7FCF5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

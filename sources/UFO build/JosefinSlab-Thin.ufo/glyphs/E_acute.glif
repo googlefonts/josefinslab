@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute" format="2">
+  <advance width="571"/>
+  <unicode hex="00C9"/>
+  <outline>
+    <component base="E" identifier="B8FC2480"/>
+    <component base="acute" xOffset="177" yOffset="271" identifier="C5BEF62D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:43:06 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B8FC2480</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C5BEF62D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave" format="2">
+  <advance width="292"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <component base="dotlessi" identifier="A42A8871"/>
+    <component base="grave" xOffset="51" identifier="39BAE656"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:45:01 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>39BAE656</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A42A8871</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

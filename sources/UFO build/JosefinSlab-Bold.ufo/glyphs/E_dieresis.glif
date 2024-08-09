@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edieresis" format="2">
+  <advance width="571"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <component base="E" identifier="52E47C09"/>
+    <component base="dieresis" xOffset="107" yOffset="290" identifier="69019AB5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:45:01 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>52E47C09</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>69019AB5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

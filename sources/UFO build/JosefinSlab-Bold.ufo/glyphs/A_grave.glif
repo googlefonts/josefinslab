@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Agrave" format="2">
+  <advance width="788"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <component base="A" identifier="1BC9CA43"/>
+    <component base="grave" xOffset="296" yOffset="271" identifier="A48478E8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:45:01 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1BC9CA43</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A48478E8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

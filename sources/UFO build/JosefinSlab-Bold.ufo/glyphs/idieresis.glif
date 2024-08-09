@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis" format="2">
+  <advance width="292"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <component base="dotlessi" identifier="354C2B51"/>
+    <component base="dieresis" xOffset="-36" identifier="0B5AFE13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:45:01 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0B5AFE13</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>354C2B51</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

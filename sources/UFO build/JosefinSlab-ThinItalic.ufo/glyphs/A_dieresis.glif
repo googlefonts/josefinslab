@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis" format="2">
+  <advance width="828"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <component base="dieresis" xOffset="333" yOffset="290" identifier="C9A9D024"/>
+    <component base="A" identifier="D948E9B2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:42:56 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C9A9D024</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D948E9B2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

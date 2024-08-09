@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="292"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <component base="dotlessi" identifier="81AB57F5"/>
+    <component base="acute" xOffset="51" identifier="63A8C3A1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-08 13:44:49 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>63A8C3A1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>81AB57F5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
