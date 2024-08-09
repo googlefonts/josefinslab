@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="200"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="51" y="612" type="line"/>
+      <point x="65" y="579"/>
+      <point x="89" y="512"/>
+      <point x="103" y="479" type="qcurve"/>
+      <point x="44" y="479" type="line"/>
+      <point x="24" y="512"/>
+      <point x="-11" y="579"/>
+      <point x="-31" y="612" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:04:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

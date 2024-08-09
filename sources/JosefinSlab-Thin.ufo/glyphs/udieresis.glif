@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresis" format="2">
+  <advance width="518"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <component base="u" identifier="5A84B9BC"/>
+    <component base="dieresis" xOffset="75" identifier="69FC3C26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:03:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5A84B9BC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>69FC3C26</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

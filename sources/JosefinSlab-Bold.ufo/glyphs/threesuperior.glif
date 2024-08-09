@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threesuperior" format="2">
+  <advance width="419"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <contour>
+      <point x="232" y="407.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="217" y="393"/>
+      <point x="178" y="376"/>
+      <point x="156" y="376" type="qcurve" smooth="yes"/>
+      <point x="132" y="376"/>
+      <point x="92" y="395"/>
+      <point x="77" y="411" type="qcurve"/>
+      <point x="107" y="439" type="line"/>
+      <point x="116" y="428"/>
+      <point x="141" y="416"/>
+      <point x="156" y="416" type="qcurve" smooth="yes"/>
+      <point x="170" y="416"/>
+      <point x="194" y="427"/>
+      <point x="203" y="436" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="212" y="445"/>
+      <point x="223" y="469"/>
+      <point x="223" y="483" type="qcurve" smooth="yes"/>
+      <point x="223" y="497"/>
+      <point x="212" y="521"/>
+      <point x="203" y="530" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="194" y="539"/>
+      <point x="170" y="549"/>
+      <point x="156" y="549" type="qcurve" smooth="yes"/>
+      <point x="147" y="549" name="inserted"/>
+      <point x="131" y="545"/>
+      <point x="124" y="541" type="qcurve"/>
+      <point x="193" y="660" type="line"/>
+      <point x="138" y="660" type="line"/>
+      <point x="138" y="637" type="line"/>
+      <point x="99" y="637" type="line"/>
+      <point x="99" y="700" type="line"/>
+      <point x="261" y="700" type="line"/>
+      <point x="191" y="583" type="line"/>
+      <point x="207" y="577"/>
+      <point x="234" y="558"/>
+      <point x="243.5" y="545" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="253" y="532"/>
+      <point x="264" y="501"/>
+      <point x="264" y="483" type="qcurve" smooth="yes"/>
+      <point x="264" y="461"/>
+      <point x="247" y="422"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 09:57:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

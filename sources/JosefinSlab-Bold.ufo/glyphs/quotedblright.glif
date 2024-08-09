@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="248"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="96" y="711" type="qcurve"/>
+      <point x="104" y="669"/>
+      <point x="80" y="594"/>
+      <point x="52" y="566" type="qcurve"/>
+      <point x="11" y="590" type="line"/>
+      <point x="32" y="610"/>
+      <point x="51" y="669"/>
+      <point x="44" y="704" type="qcurve"/>
+      <point x="57" y="706"/>
+      <point x="83" y="709"/>
+    </contour>
+    <contour>
+      <point x="200" y="711" type="qcurve"/>
+      <point x="208" y="669"/>
+      <point x="184" y="594"/>
+      <point x="156" y="566" type="qcurve"/>
+      <point x="115" y="590" type="line"/>
+      <point x="136" y="610"/>
+      <point x="155" y="669"/>
+      <point x="148" y="704" type="qcurve"/>
+      <point x="161" y="706"/>
+      <point x="187" y="709"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 09:57:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

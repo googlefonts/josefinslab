@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Egrave" format="2">
+  <advance width="571"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <component base="E" identifier="7E0D5922"/>
+    <component base="grave" xOffset="213" yOffset="271" identifier="5A2A0F27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:03:31 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5A2A0F27</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7E0D5922</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

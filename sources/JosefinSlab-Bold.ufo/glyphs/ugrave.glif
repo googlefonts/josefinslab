@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ugrave" format="2">
+  <advance width="570"/>
+  <unicode hex="00F9"/>
+  <outline>
+    <component base="u" identifier="2CBE9163"/>
+    <component base="grave" xOffset="177" identifier="FC2807A7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 09:57:10 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2CBE9163</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FC2807A7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

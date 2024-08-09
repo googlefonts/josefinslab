@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ntilde" format="2">
+  <advance width="817"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <component base="N" identifier="07BD6C41"/>
+    <component base="asciitilde" xOffset="120" yOffset="292" identifier="88C5FBBF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 09:57:09 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>07BD6C41</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>88C5FBBF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

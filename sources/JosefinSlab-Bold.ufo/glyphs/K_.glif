@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="686"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="277" y="0" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="35" y="79" type="line"/>
+      <point x="112" y="79" type="line"/>
+      <point x="112" y="621" type="line"/>
+      <point x="35" y="621" type="line"/>
+      <point x="35" y="700" type="line"/>
+      <point x="257" y="700" type="line"/>
+      <point x="257" y="621" type="line"/>
+      <point x="195" y="621" type="line"/>
+      <point x="195" y="426" type="line" smooth="yes"/>
+      <point x="195" y="418"/>
+      <point x="193" y="402"/>
+      <point x="192" y="394" type="qcurve"/>
+      <point x="211" y="417" type="line"/>
+      <point x="425" y="621" type="line"/>
+      <point x="388" y="621" type="line"/>
+      <point x="388" y="700" type="line"/>
+      <point x="610" y="700" type="line"/>
+      <point x="610" y="621" type="line"/>
+      <point x="527" y="621" type="line"/>
+      <point x="312" y="416" type="line"/>
+      <point x="379" y="331"/>
+      <point x="512" y="164"/>
+      <point x="579" y="79" type="qcurve"/>
+      <point x="651" y="79" type="line"/>
+      <point x="651" y="0" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="429" y="79" type="line"/>
+      <point x="481" y="79" type="line"/>
+      <point x="424" y="150"/>
+      <point x="313" y="291"/>
+      <point x="257" y="363" type="qcurve"/>
+      <point x="195" y="304" type="line"/>
+      <point x="195" y="79" type="line"/>
+      <point x="277" y="79" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:00:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

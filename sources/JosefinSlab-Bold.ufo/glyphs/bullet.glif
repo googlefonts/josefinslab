@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="479"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="239" y="174" type="qcurve" smooth="yes"/>
+      <point x="213" y="174"/>
+      <point x="167" y="193"/>
+      <point x="150" y="210" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="133" y="227"/>
+      <point x="113" y="273"/>
+      <point x="113" y="300" type="qcurve" smooth="yes"/>
+      <point x="113" y="327"/>
+      <point x="133" y="373"/>
+      <point x="150" y="390.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="167" y="408"/>
+      <point x="213" y="428"/>
+      <point x="239" y="428" type="qcurve" smooth="yes"/>
+      <point x="266" y="428"/>
+      <point x="312" y="408"/>
+      <point x="329.5" y="390.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="347" y="373"/>
+      <point x="367" y="327"/>
+      <point x="367" y="300" type="qcurve" smooth="yes"/>
+      <point x="367" y="273"/>
+      <point x="347" y="227"/>
+      <point x="329.5" y="210" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="312" y="193"/>
+      <point x="266" y="174"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 09:57:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

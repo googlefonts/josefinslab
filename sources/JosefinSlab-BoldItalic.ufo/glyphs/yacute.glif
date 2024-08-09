@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yacute" format="2">
+  <advance width="617"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <component base="y" identifier="317D4F1F"/>
+    <component base="acute" xOffset="292" identifier="ABC6E2BA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:04:14 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>317D4F1F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>ABC6E2BA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

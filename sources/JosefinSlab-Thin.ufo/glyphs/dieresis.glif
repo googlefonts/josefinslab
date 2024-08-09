@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="370"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="287" y="500" type="qcurve" smooth="yes"/>
+      <point x="287" y="492"/>
+      <point x="275" y="480"/>
+      <point x="267" y="480" type="qcurve" smooth="yes"/>
+      <point x="259" y="480"/>
+      <point x="247" y="492"/>
+      <point x="247" y="500" type="qcurve" smooth="yes"/>
+      <point x="247" y="508"/>
+      <point x="259" y="520"/>
+      <point x="267" y="520" type="qcurve" smooth="yes"/>
+      <point x="275" y="520"/>
+      <point x="287" y="508"/>
+    </contour>
+    <contour>
+      <point x="122" y="500" type="qcurve" smooth="yes"/>
+      <point x="122" y="492"/>
+      <point x="110" y="480"/>
+      <point x="102" y="480" type="qcurve" smooth="yes"/>
+      <point x="94" y="480"/>
+      <point x="82" y="492"/>
+      <point x="82" y="500" type="qcurve" smooth="yes"/>
+      <point x="82" y="508"/>
+      <point x="94" y="520"/>
+      <point x="102" y="520" type="qcurve" smooth="yes"/>
+      <point x="110" y="520"/>
+      <point x="122" y="508"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:03:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="810"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="676" y="621" type="line"/>
+      <point x="607" y="456"/>
+      <point x="468" y="133"/>
+      <point x="399" y="-32" type="qcurve"/>
+      <point x="330" y="133"/>
+      <point x="191" y="456"/>
+      <point x="122" y="621" type="qcurve"/>
+      <point x="35" y="621" type="line"/>
+      <point x="35" y="700" type="line"/>
+      <point x="277" y="700" type="line"/>
+      <point x="277" y="621" type="line"/>
+      <point x="205" y="621" type="line"/>
+      <point x="252" y="512"/>
+      <point x="343" y="294"/>
+      <point x="390" y="185" type="qcurve"/>
+      <point x="399" y="152" type="line"/>
+      <point x="408" y="185" type="line"/>
+      <point x="455" y="294"/>
+      <point x="546" y="511"/>
+      <point x="592" y="621" type="qcurve"/>
+      <point x="533" y="621" type="line"/>
+      <point x="533" y="700" type="line"/>
+      <point x="775" y="700" type="line"/>
+      <point x="775" y="621" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:00:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

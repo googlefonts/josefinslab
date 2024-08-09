@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="341"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="60" y="-53" type="qcurve"/>
+      <point x="50" y="-47"/>
+      <point x="32" y="-35"/>
+      <point x="22" y="-29" type="qcurve"/>
+      <point x="46" y="-9"/>
+      <point x="73" y="50"/>
+      <point x="71" y="85" type="qcurve"/>
+      <point x="84" y="87"/>
+      <point x="111" y="90"/>
+      <point x="124" y="92" type="qcurve"/>
+      <point x="126" y="50"/>
+      <point x="92" y="-25"/>
+    </contour>
+    <contour>
+      <point x="164" y="-53" type="qcurve"/>
+      <point x="154" y="-47"/>
+      <point x="136" y="-35"/>
+      <point x="126" y="-29" type="qcurve"/>
+      <point x="150" y="-9"/>
+      <point x="177" y="50"/>
+      <point x="175" y="85" type="qcurve"/>
+      <point x="188" y="87"/>
+      <point x="215" y="90"/>
+      <point x="228" y="92" type="qcurve"/>
+      <point x="230" y="50"/>
+      <point x="196" y="-25"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:04:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

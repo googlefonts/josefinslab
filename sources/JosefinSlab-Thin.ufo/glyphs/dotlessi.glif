@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="244"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="209" y="0" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="35" y="14" type="line"/>
+      <point x="117" y="14" type="line"/>
+      <point x="117" y="361" type="line"/>
+      <point x="35" y="361" type="line"/>
+      <point x="35" y="375" type="line"/>
+      <point x="131" y="375" type="line"/>
+      <point x="131" y="14" type="line"/>
+      <point x="209" y="14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:03:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>
