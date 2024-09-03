@@ -16,14 +16,6 @@
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2011/06/16 10:19:23</string>
-    <key>openTypeHeadFlags</key>
-    <array>
-      <integer>0</integer>
-      <integer>3</integer>
-      <integer>4</integer>
-    </array>
-    <key>openTypeHeadLowestRecPPEM</key>
-    <integer>9</integer>
     <key>openTypeHheaAscender</key>
     <integer>750</integer>
     <key>openTypeHheaCaretOffset</key>
@@ -41,19 +33,13 @@
     <key>openTypeNameDesignerURL</key>
     <string>www.typemade.mx</string>
     <key>openTypeNameLicense</key>
-    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org</string>
     <key>openTypeNameLicenseURL</key>
-    <string>http://scripts.sil.org/OFL</string>
+    <string>https://openfontlicense.org</string>
     <key>openTypeNameManufacturer</key>
     <string>Typemade</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Thin</string>
-    <key>openTypeOS2CodePageRanges</key>
-    <array>
-      <integer>0</integer>
-      <integer>4</integer>
-      <integer>9</integer>
-    </array>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>2</integer>
@@ -83,12 +69,6 @@
     <integer>-250</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
-    <key>openTypeOS2UnicodeRanges</key>
-    <array>
-      <integer>0</integer>
-      <integer>1</integer>
-      <integer>34</integer>
-    </array>
     <key>openTypeOS2VendorID</key>
     <string>GOOG</string>
     <key>openTypeOS2WeightClass</key>
@@ -101,8 +81,6 @@
     <integer>250</integer>
     <key>postscriptFontName</key>
     <string>JosefinSlab-Thin</string>
-    <key>postscriptIsFixedPitch</key>
-    <false/>
     <key>postscriptUnderlinePosition</key>
     <integer>-75</integer>
     <key>postscriptUnderlineThickness</key>
@@ -120,7 +98,7 @@
     <key>versionMajor</key>
     <integer>2</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>100</integer>
     <key>xHeight</key>
     <integer>375</integer>
   </dict>

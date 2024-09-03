@@ -608,8 +608,12 @@
     <array>
       <string>A</string>
       <string>AE</string>
+      <string>Aacute</string>
+      <string>Acircumflex</string>
+      <string>Adieresis</string>
       <string>Agrave</string>
       <string>Aring</string>
+      <string>Atilde</string>
     </array>
     <key>public.kern2.Euro</key>
     <array>
@@ -713,7 +717,6 @@
     </array>
     <key>public.kern2.acute</key>
     <array>
-      <string>Aacute</string>
       <string>acute</string>
     </array>
     <key>public.kern2.ampersand</key>
@@ -727,12 +730,10 @@
     <key>public.kern2.asciicircum</key>
     <array>
       <string>asciicircum</string>
-      <string>Acircumflex</string>
     </array>
     <key>public.kern2.asciitilde</key>
     <array>
       <string>asciitilde</string>
-      <string>Atilde</string>
     </array>
     <key>public.kern2.asterisk</key>
     <array>
@@ -801,7 +802,6 @@
     </array>
     <key>public.kern2.dieresis</key>
     <array>
-      <string>Adieresis</string>
       <string>dieresis</string>
     </array>
     <key>public.kern2.divide</key>
