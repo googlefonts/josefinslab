@@ -314,7 +314,6 @@
     <key>public.kern1.hyphen</key>
     <array>
       <string>hyphen</string>
-      <string>uni00AD</string>
       <string>endash</string>
       <string>emdash</string>
     </array>
@@ -877,7 +876,6 @@
     <key>public.kern2.hyphen</key>
     <array>
       <string>hyphen</string>
-      <string>uni00AD</string>
       <string>endash</string>
       <string>emdash</string>
     </array>
