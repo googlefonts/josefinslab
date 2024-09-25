@@ -42,4 +42,10 @@
       <point x="570" y="-23" type="qcurve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:46:28 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -3,6 +3,12 @@
   <advance width="410"/>
   <unicode hex="00BF"/>
   <outline>
-    <component base="question" xScale="-0.9999" yScale="-0.9999" xOffset="449" yOffset="539"/>
+    <component base="question" xScale="-1" yScale="-1" xOffset="449" yOffset="539"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:03:31 +0000</string>
+    </dict>
+  </lib>
 </glyph>

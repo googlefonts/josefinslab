@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="p" format="2">
-  <advance width="548"/>
+  <advance width="537"/>
   <unicode hex="0070"/>
   <outline>
     <contour>
@@ -69,4 +69,10 @@
       <point x="439" y="164"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:36:23 +0000</string>
+    </dict>
+  </lib>
 </glyph>

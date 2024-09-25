@@ -11,9 +11,7 @@
       <point x="170" y="100" type="line"/>
       <point x="170" y="114" type="line"/>
       <point x="330" y="114" type="line"/>
-      <point x="330.0" y="114.0" name="inserted"/>
-      <point x="330.0" y="263.0"/>
-      <point x="330" y="263" type="qcurve"/>
+      <point x="330" y="263" type="line"/>
       <point x="170" y="263" type="line"/>
       <point x="170" y="277" type="line"/>
       <point x="321" y="277" type="line"/>
@@ -46,4 +44,10 @@
       <point x="425" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:03:31 +0000</string>
+    </dict>
+  </lib>
 </glyph>

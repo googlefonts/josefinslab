@@ -56,4 +56,10 @@
       <point x="161" y="190"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 09:58:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

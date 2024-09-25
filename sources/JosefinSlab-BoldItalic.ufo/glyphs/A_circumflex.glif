@@ -6,4 +6,10 @@
     <component base="asciicircum" xOffset="278" yOffset="271"/>
     <component base="A"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 14:01:27 +0000</string>
+    </dict>
+  </lib>
 </glyph>

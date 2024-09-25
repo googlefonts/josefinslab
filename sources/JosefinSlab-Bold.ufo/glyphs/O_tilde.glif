@@ -6,4 +6,10 @@
     <component base="O"/>
     <component base="asciitilde" xOffset="114" yOffset="327"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 09:57:09 +0000</string>
+    </dict>
+  </lib>
 </glyph>

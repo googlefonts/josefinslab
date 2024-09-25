@@ -15,6 +15,67 @@
         <string>flattenComponents</string>
       </dict>
     </array>
+    <key>com.schriftgestaltung.appVersion</key>
+    <string>3315</string>
+    <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+    <false/>
+    <key>com.schriftgestaltung.fontMaster.customParameters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>subscriptXOffset</string>
+        <key>value</key>
+        <integer>0</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>subscriptXSize</string>
+        <key>value</key>
+        <integer>700</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>subscriptYOffset</string>
+        <key>value</key>
+        <integer>140</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>subscriptYSize</string>
+        <key>value</key>
+        <integer>650</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>superscriptXOffset</string>
+        <key>value</key>
+        <integer>0</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>superscriptXSize</string>
+        <key>value</key>
+        <integer>700</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>superscriptYOffset</string>
+        <key>value</key>
+        <integer>477</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>superscriptYSize</string>
+        <key>value</key>
+        <integer>650</integer>
+      </dict>
+    </array>
+    <key>com.schriftgestaltung.formatVersion</key>
+    <integer>3</integer>
+    <key>com.schriftgestaltung.useGlyphOrder</key>
+    <true/>
+    <key>com.schriftgestaltung.useNiceNames</key>
+    <false/>
     <key>com.typemytype.robofont.binarySource</key>
     <string>/Users/pichotta/Masters FB/***RETAIL DEVELOPMENT MASTERS/TN Font DEV/GGL TN VFweightUpgrades FORKED/josefinslab/JosefinSlab-Bold.ttf</string>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
@@ -489,7 +550,5 @@
       <key>twosuperior</key>
       <string>uni00B2</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array/>
   </dict>
 </plist>

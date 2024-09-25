@@ -22,15 +22,21 @@
       <point x="281" y="370"/>
       <point x="320" y="384"/>
       <point x="335" y="384" type="qcurve"/>
-      <point x="329" y="302" type="line"/>
-      <point x="304" y="302"/>
-      <point x="261" y="290"/>
-      <point x="245" y="279" type="qcurve" smooth="yes"/>
-      <point x="221" y="263"/>
-      <point x="194" y="213"/>
-      <point x="194" y="182" type="qcurve" smooth="yes"/>
+      <point x="329" y="289" type="line"/>
+      <point x="304" y="289"/>
+      <point x="261" y="277"/>
+      <point x="245" y="266" type="qcurve" smooth="yes"/>
+      <point x="221" y="250"/>
+      <point x="194" y="200"/>
+      <point x="194" y="169" type="qcurve" smooth="yes"/>
       <point x="194" y="79" type="line"/>
       <point x="257" y="79" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:47:46 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -5,4 +5,10 @@
   <outline>
     <component base="guillemotleft" xScale="-0.9999" xOffset="576"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 09:57:09 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -3,7 +3,26 @@
   <advance width="292"/>
   <unicode hex="00EF"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dieresis" xOffset="-36"/>
+    <component base="dotlessi" identifier="354C2B51"/>
+    <component base="dieresis" xOffset="-36" identifier="0B5AFE13"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 09:57:10 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0B5AFE13</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>354C2B51</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

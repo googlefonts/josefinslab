@@ -3,7 +3,26 @@
   <advance width="788"/>
   <unicode hex="00C5"/>
   <outline>
-    <component base="A"/>
-    <component base="ring" xOffset="268" yOffset="298"/>
+    <component base="A" identifier="B1D3FB60"/>
+    <component base="ring" xOffset="268" yOffset="298" identifier="CF08FD4D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 09:57:09 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B1D3FB60</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CF08FD4D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

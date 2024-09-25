@@ -5,4 +5,10 @@
   <outline>
     <component base="period" yOffset="260"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:03:31 +0000</string>
+    </dict>
+  </lib>
 </glyph>

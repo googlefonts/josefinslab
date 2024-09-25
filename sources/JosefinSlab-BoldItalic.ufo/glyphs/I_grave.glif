@@ -3,7 +3,26 @@
   <advance width="312"/>
   <unicode hex="00CC"/>
   <outline>
-    <component base="I"/>
-    <component base="grave" xOffset="176" yOffset="271"/>
+    <component base="I" identifier="A0B99866"/>
+    <component base="grave" xOffset="176" yOffset="271" identifier="B18D8591"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-08-09 10:04:14 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A0B99866</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B18D8591</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
