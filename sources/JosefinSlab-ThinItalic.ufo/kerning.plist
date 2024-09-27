@@ -7,6 +7,8 @@
       <key>public.kern2.H</key>
       <integer>0</integer>
       <key>public.kern2.O</key>
+      <integer>-60</integer>
+      <key>public.kern2.S</key>
       <integer>-20</integer>
       <key>public.kern2.T</key>
       <integer>-100</integer>
@@ -18,32 +20,89 @@
       <integer>-180</integer>
       <key>public.kern2.Y</key>
       <integer>-160</integer>
+      <key>public.kern2.a</key>
+      <integer>-20</integer>
       <key>public.kern2.asterisk</key>
       <integer>-80</integer>
+      <key>public.kern2.o</key>
+      <integer>-20</integer>
+      <key>public.kern2.question</key>
+      <integer>-40</integer>
       <key>public.kern2.v</key>
+      <integer>-100</integer>
+      <key>public.kern2.w</key>
       <integer>-100</integer>
       <key>public.kern2.y</key>
       <integer>-60</integer>
+    </dict>
+    <key>public.kern1.B</key>
+    <dict>
+      <key>public.kern2.S</key>
+      <integer>20</integer>
+      <key>public.kern2.V</key>
+      <integer>-40</integer>
+      <key>public.kern2.W</key>
+      <integer>-40</integer>
+      <key>public.kern2.w</key>
+      <integer>-20</integer>
+    </dict>
+    <key>public.kern1.C</key>
+    <dict>
+      <key>public.kern2.v</key>
+      <integer>-60</integer>
+      <key>public.kern2.w</key>
+      <integer>-60</integer>
+      <key>public.kern2.y</key>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.F</key>
     <dict>
       <key>public.kern2.A</key>
       <integer>-100</integer>
+      <key>public.kern2.o</key>
+      <integer>-55</integer>
       <key>public.kern2.period</key>
       <integer>-60</integer>
+      <key>public.kern2.v</key>
+      <integer>-40</integer>
+      <key>public.kern2.w</key>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.G</key>
+    <dict>
+      <key>public.kern2.V</key>
+      <integer>-20</integer>
+      <key>public.kern2.W</key>
+      <integer>-60</integer>
+      <key>public.kern2.o</key>
+      <integer>20</integer>
     </dict>
     <key>public.kern1.H</key>
     <dict>
       <key>public.kern2.H</key>
       <integer>20</integer>
+      <key>public.kern2.o</key>
+      <integer>-40</integer>
+      <key>public.kern2.s</key>
+      <integer>-20</integer>
+      <key>public.kern2.v</key>
+      <integer>-40</integer>
+      <key>public.kern2.w</key>
+      <integer>-40</integer>
+      <key>public.kern2.y</key>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.J</key>
     <dict>
       <key>public.kern2.H</key>
       <integer>40</integer>
+      <key>public.kern2.o</key>
+      <integer>20</integer>
     </dict>
     <key>public.kern1.K</key>
     <dict>
+      <key>public.kern2.O</key>
+      <integer>-40</integer>
       <key>public.kern2.y</key>
       <integer>-60</integer>
     </dict>
@@ -53,15 +112,34 @@
       <integer>-100</integer>
       <key>public.kern2.V</key>
       <integer>-120</integer>
+      <key>public.kern2.W</key>
+      <integer>-120</integer>
       <key>public.kern2.Y</key>
       <integer>-120</integer>
+      <key>public.kern2.question</key>
+      <integer>-40</integer>
       <key>public.kern2.quotedblleft</key>
       <integer>-40</integer>
+      <key>public.kern2.v</key>
+      <integer>-80</integer>
+      <key>public.kern2.w</key>
+      <integer>-80</integer>
       <key>public.kern2.y</key>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.M</key>
+    <dict>
+      <key>public.kern2.v</key>
+      <integer>-40</integer>
+      <key>public.kern2.w</key>
       <integer>-40</integer>
     </dict>
     <key>public.kern1.O</key>
     <dict>
+      <key>public.kern2.A</key>
+      <integer>-40</integer>
+      <key>public.kern2.V</key>
+      <integer>-60</integer>
       <key>public.kern2.W</key>
       <integer>-80</integer>
       <key>public.kern2.X</key>
@@ -75,10 +153,42 @@
       <integer>-120</integer>
       <key>public.kern2.o</key>
       <integer>-40</integer>
+      <key>public.kern2.u</key>
+      <integer>-40</integer>
+      <key>public.kern2.v</key>
+      <integer>-40</integer>
+      <key>public.kern2.w</key>
+      <integer>-60</integer>
+      <key>public.kern2.x</key>
+      <integer>-20</integer>
+      <key>public.kern2.y</key>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.Q</key>
+    <dict>
+      <key>public.kern2.V</key>
+      <integer>-80</integer>
     </dict>
     <key>public.kern1.R</key>
     <dict>
+      <key>public.kern2.V</key>
+      <integer>-120</integer>
+      <key>public.kern2.W</key>
+      <integer>-120</integer>
+      <key>public.kern2.Y</key>
+      <integer>-100</integer>
       <key>public.kern2.o</key>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.S</key>
+    <dict>
+      <key>public.kern2.H</key>
+      <integer>20</integer>
+      <key>public.kern2.V</key>
+      <integer>-60</integer>
+      <key>public.kern2.W</key>
+      <integer>-60</integer>
+      <key>public.kern2.Y</key>
       <integer>-40</integer>
     </dict>
     <key>public.kern1.T</key>
@@ -87,18 +197,32 @@
       <integer>-100</integer>
       <key>public.kern2.a</key>
       <integer>-100</integer>
+      <key>public.kern2.four</key>
+      <integer>-80</integer>
       <key>public.kern2.hyphen</key>
       <integer>-20</integer>
       <key>public.kern2.i</key>
       <integer>-40</integer>
+      <key>public.kern2.j</key>
+      <integer>-60</integer>
       <key>public.kern2.n</key>
       <integer>-100</integer>
       <key>public.kern2.o</key>
       <integer>-100</integer>
+      <key>public.kern2.p</key>
+      <integer>-80</integer>
       <key>public.kern2.u</key>
+      <integer>-100</integer>
+      <key>public.kern2.v</key>
+      <integer>-120</integer>
+      <key>public.kern2.w</key>
+      <integer>-120</integer>
+      <key>public.kern2.x</key>
       <integer>-100</integer>
       <key>public.kern2.y</key>
       <integer>-100</integer>
+      <key>public.kern2.z</key>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.Thorn</key>
     <dict>
@@ -109,39 +233,117 @@
     <dict>
       <key>public.kern2.A</key>
       <integer>-80</integer>
+      <key>public.kern2.acute</key>
+      <integer>-40</integer>
+      <key>public.kern2.s</key>
+      <integer>-20</integer>
+      <key>public.kern2.v</key>
+      <integer>-80</integer>
+      <key>public.kern2.w</key>
+      <integer>-60</integer>
+      <key>public.kern2.y</key>
+      <integer>-80</integer>
     </dict>
     <key>public.kern1.V</key>
     <dict>
       <key>public.kern2.A</key>
       <integer>-180</integer>
+      <key>public.kern2.O</key>
+      <integer>-60</integer>
+      <key>public.kern2.S</key>
+      <integer>-80</integer>
       <key>public.kern2.a</key>
       <integer>-120</integer>
       <key>public.kern2.colon</key>
       <integer>-40</integer>
+      <key>public.kern2.h</key>
+      <integer>-40</integer>
       <key>public.kern2.hyphen</key>
       <integer>-80</integer>
+      <key>public.kern2.i</key>
+      <integer>-40</integer>
+      <key>public.kern2.j</key>
+      <integer>-40</integer>
+      <key>public.kern2.n</key>
+      <integer>-120</integer>
       <key>public.kern2.o</key>
       <integer>-160</integer>
+      <key>public.kern2.p</key>
+      <integer>-100</integer>
+      <key>public.kern2.period</key>
+      <integer>-100</integer>
+      <key>public.kern2.question</key>
+      <integer>-40</integer>
+      <key>public.kern2.s</key>
+      <integer>-140</integer>
+      <key>public.kern2.t</key>
+      <integer>-40</integer>
+      <key>public.kern2.u</key>
+      <integer>-145</integer>
+      <key>public.kern2.v</key>
+      <integer>-140</integer>
+      <key>public.kern2.w</key>
+      <integer>-140</integer>
+      <key>public.kern2.x</key>
+      <integer>-120</integer>
+      <key>public.kern2.y</key>
+      <integer>-140</integer>
+      <key>public.kern2.z</key>
+      <integer>-120</integer>
     </dict>
     <key>public.kern1.W</key>
     <dict>
       <key>public.kern2.A</key>
       <integer>-180</integer>
+      <key>public.kern2.O</key>
+      <integer>-100</integer>
+      <key>public.kern2.S</key>
+      <integer>-60</integer>
       <key>public.kern2.a</key>
       <integer>-140</integer>
+      <key>public.kern2.colon</key>
+      <integer>-80</integer>
+      <key>public.kern2.f</key>
+      <integer>-60</integer>
+      <key>public.kern2.h</key>
+      <integer>-20</integer>
+      <key>public.kern2.i</key>
+      <integer>-60</integer>
+      <key>public.kern2.j</key>
+      <integer>-60</integer>
       <key>public.kern2.n</key>
       <integer>-120</integer>
       <key>public.kern2.o</key>
       <integer>-180</integer>
+      <key>public.kern2.p</key>
+      <integer>-140</integer>
+      <key>public.kern2.period</key>
+      <integer>-80</integer>
+      <key>public.kern2.question</key>
+      <integer>-40</integer>
       <key>public.kern2.s</key>
       <integer>-160</integer>
+      <key>public.kern2.t</key>
+      <integer>-60</integer>
       <key>public.kern2.u</key>
       <integer>-120</integer>
+      <key>public.kern2.v</key>
+      <integer>-160</integer>
+      <key>public.kern2.w</key>
+      <integer>-140</integer>
+      <key>public.kern2.x</key>
+      <integer>-140</integer>
+      <key>public.kern2.y</key>
+      <integer>-120</integer>
+      <key>public.kern2.z</key>
+      <integer>-140</integer>
     </dict>
     <key>public.kern1.X</key>
     <dict>
       <key>public.kern2.O</key>
       <integer>-40</integer>
+      <key>public.kern2.period</key>
+      <integer>20</integer>
     </dict>
     <key>public.kern1.Y</key>
     <dict>
@@ -149,12 +351,46 @@
       <integer>-160</integer>
       <key>public.kern2.O</key>
       <integer>-40</integer>
+      <key>public.kern2.S</key>
+      <integer>-60</integer>
+      <key>public.kern2.colon</key>
+      <integer>-80</integer>
+      <key>public.kern2.f</key>
+      <integer>-40</integer>
+      <key>public.kern2.h</key>
+      <integer>-20</integer>
       <key>public.kern2.hyphen</key>
       <integer>-80</integer>
+      <key>public.kern2.i</key>
+      <integer>-100</integer>
+      <key>public.kern2.j</key>
+      <integer>-80</integer>
+      <key>public.kern2.n</key>
+      <integer>-120</integer>
       <key>public.kern2.o</key>
+      <integer>-140</integer>
+      <key>public.kern2.p</key>
       <integer>-140</integer>
       <key>public.kern2.period</key>
       <integer>-80</integer>
+      <key>public.kern2.question</key>
+      <integer>-40</integer>
+      <key>public.kern2.s</key>
+      <integer>-140</integer>
+      <key>public.kern2.t</key>
+      <integer>-40</integer>
+      <key>public.kern2.u</key>
+      <integer>-175</integer>
+      <key>public.kern2.v</key>
+      <integer>-140</integer>
+      <key>public.kern2.w</key>
+      <integer>-160</integer>
+      <key>public.kern2.x</key>
+      <integer>-140</integer>
+      <key>public.kern2.y</key>
+      <integer>-140</integer>
+      <key>public.kern2.z</key>
+      <integer>-120</integer>
     </dict>
     <key>public.kern1.asterisk</key>
     <dict>
@@ -165,13 +401,44 @@
     <dict>
       <key>public.kern2.Y</key>
       <integer>-140</integer>
+      <key>public.kern2.h</key>
+      <integer>-25</integer>
+      <key>public.kern2.o</key>
+      <integer>-20</integer>
+      <key>public.kern2.v</key>
+      <integer>-40</integer>
+      <key>public.kern2.w</key>
+      <integer>-40</integer>
       <key>public.kern2.y</key>
       <integer>0</integer>
+      <key>public.kern2.z</key>
+      <integer>-5</integer>
+    </dict>
+    <key>public.kern1.f</key>
+    <dict>
+      <key>public.kern2.o</key>
+      <integer>-15</integer>
+    </dict>
+    <key>public.kern1.five</key>
+    <dict>
+      <key>public.kern2.six</key>
+      <integer>-20</integer>
     </dict>
     <key>public.kern1.four</key>
     <dict>
+      <key>public.kern2.five</key>
+      <integer>-40</integer>
       <key>public.kern2.seven</key>
       <integer>40</integer>
+      <key>public.kern2.zero</key>
+      <integer>20</integer>
+    </dict>
+    <key>public.kern1.g</key>
+    <dict>
+      <key>public.kern2.o</key>
+      <integer>-20</integer>
+      <key>public.kern2.s</key>
+      <integer>-15</integer>
     </dict>
     <key>public.kern1.hyphen</key>
     <dict>
@@ -180,23 +447,67 @@
       <key>public.kern2.Y</key>
       <integer>-80</integer>
     </dict>
+    <key>public.kern1.i</key>
+    <dict>
+      <key>public.kern2.v</key>
+      <integer>-20</integer>
+      <key>public.kern2.w</key>
+      <integer>-40</integer>
+      <key>public.kern2.y</key>
+      <integer>-20</integer>
+    </dict>
+    <key>public.kern1.j</key>
+    <dict>
+      <key>public.kern2.o</key>
+      <integer>20</integer>
+    </dict>
     <key>public.kern1.k</key>
     <dict>
       <key>public.kern2.o</key>
       <integer>-20</integer>
+      <key>public.kern2.u</key>
+      <integer>-40</integer>
+      <key>public.kern2.v</key>
+      <integer>-40</integer>
+      <key>public.kern2.w</key>
+      <integer>-60</integer>
+      <key>public.kern2.y</key>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.l</key>
     <dict>
+      <key>public.kern2.o</key>
+      <integer>-15</integer>
+      <key>public.kern2.s</key>
+      <integer>-5</integer>
       <key>public.kern2.twosuperior</key>
+      <integer>-60</integer>
+      <key>public.kern2.u</key>
+      <integer>-15</integer>
+      <key>public.kern2.v</key>
+      <integer>-60</integer>
+      <key>public.kern2.w</key>
+      <integer>-65</integer>
+      <key>public.kern2.x</key>
+      <integer>-20</integer>
+      <key>public.kern2.y</key>
       <integer>-60</integer>
     </dict>
     <key>public.kern1.n</key>
     <dict>
+      <key>public.kern2.h</key>
+      <integer>-20</integer>
       <key>public.kern2.o</key>
+      <integer>-20</integer>
+      <key>public.kern2.t</key>
       <integer>-20</integer>
       <key>public.kern2.threesuperior</key>
       <integer>-60</integer>
+      <key>public.kern2.u</key>
+      <integer>-20</integer>
       <key>public.kern2.v</key>
+      <integer>-80</integer>
+      <key>public.kern2.w</key>
       <integer>-60</integer>
       <key>public.kern2.y</key>
       <integer>-40</integer>
@@ -216,7 +527,53 @@
       <integer>-140</integer>
       <key>public.kern2.W</key>
       <integer>-140</integer>
+      <key>public.kern2.h</key>
+      <integer>-10</integer>
+      <key>public.kern2.u</key>
+      <integer>-5</integer>
       <key>public.kern2.v</key>
+      <integer>-60</integer>
+      <key>public.kern2.w</key>
+      <integer>-40</integer>
+      <key>public.kern2.y</key>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.period</key>
+    <dict>
+      <key>public.kern2.V</key>
+      <integer>-100</integer>
+      <key>public.kern2.X</key>
+      <integer>20</integer>
+      <key>public.kern2.Y</key>
+      <integer>-80</integer>
+    </dict>
+    <key>public.kern1.questiondown</key>
+    <dict>
+      <key>public.kern2.A</key>
+      <integer>-40</integer>
+      <key>public.kern2.T</key>
+      <integer>-50</integer>
+      <key>public.kern2.U</key>
+      <integer>-40</integer>
+      <key>public.kern2.V</key>
+      <integer>-80</integer>
+      <key>public.kern2.W</key>
+      <integer>-100</integer>
+      <key>public.kern2.Y</key>
+      <integer>-100</integer>
+      <key>public.kern2.Z</key>
+      <integer>-20</integer>
+    </dict>
+    <key>public.kern1.r</key>
+    <dict>
+      <key>public.kern2.question</key>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.s</key>
+    <dict>
+      <key>public.kern2.o</key>
+      <integer>5</integer>
+      <key>public.kern2.w</key>
       <integer>-40</integer>
     </dict>
     <key>public.kern1.seven</key>
@@ -238,10 +595,28 @@
       <key>public.kern2.H</key>
       <integer>0</integer>
     </dict>
+    <key>public.kern1.three</key>
+    <dict>
+      <key>public.kern2.four</key>
+      <integer>-40</integer>
+    </dict>
     <key>public.kern1.two</key>
     <dict>
       <key>public.kern2.seven</key>
       <integer>40</integer>
+      <key>public.kern2.three</key>
+      <integer>0</integer>
+    </dict>
+    <key>public.kern1.u</key>
+    <dict>
+      <key>public.kern2.o</key>
+      <integer>-10</integer>
+      <key>public.kern2.v</key>
+      <integer>-40</integer>
+      <key>public.kern2.w</key>
+      <integer>-40</integer>
+      <key>public.kern2.y</key>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.v</key>
     <dict>
@@ -249,15 +624,25 @@
       <integer>-80</integer>
       <key>public.kern2.a</key>
       <integer>-40</integer>
+      <key>public.kern2.h</key>
+      <integer>-60</integer>
       <key>public.kern2.o</key>
+      <integer>-40</integer>
+      <key>public.kern2.s</key>
       <integer>-40</integer>
     </dict>
     <key>public.kern1.w</key>
     <dict>
       <key>public.kern2.a</key>
       <integer>-40</integer>
+      <key>public.kern2.h</key>
+      <integer>-40</integer>
       <key>public.kern2.o</key>
       <integer>-60</integer>
+      <key>public.kern2.s</key>
+      <integer>-40</integer>
+      <key>public.kern2.u</key>
+      <integer>-20</integer>
       <key>public.kern2.w</key>
       <integer>-20</integer>
     </dict>
@@ -272,8 +657,23 @@
       <integer>-100</integer>
       <key>public.kern2.a</key>
       <integer>-40</integer>
+      <key>public.kern2.h</key>
+      <integer>-30</integer>
+      <key>public.kern2.n</key>
+      <integer>-20</integer>
+      <key>public.kern2.o</key>
+      <integer>-45</integer>
+      <key>public.kern2.s</key>
+      <integer>-40</integer>
+      <key>public.kern2.u</key>
+      <integer>-20</integer>
       <key>public.kern2.w</key>
       <integer>-60</integer>
+    </dict>
+    <key>public.kern1.zero</key>
+    <dict>
+      <key>public.kern2.four</key>
+      <integer>0</integer>
     </dict>
   </dict>
 </plist>

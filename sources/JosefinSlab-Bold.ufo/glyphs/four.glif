@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four" format="2">
-  <advance width="529"/>
+  <advance width="553"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="486" y="0" type="line"/>
-      <point x="244" y="0" type="line"/>
-      <point x="244" y="79" type="line"/>
-      <point x="319" y="79" type="line"/>
-      <point x="319" y="183" type="line"/>
-      <point x="37" y="183" type="line"/>
-      <point x="403" y="658" type="line"/>
-      <point x="403" y="264" type="line"/>
-      <point x="500" y="264" type="line"/>
-      <point x="500" y="183" type="line"/>
-      <point x="403" y="183" type="line"/>
-      <point x="403" y="79" type="line"/>
-      <point x="486" y="79" type="line"/>
+      <point x="479" y="0" type="line"/>
+      <point x="237" y="0" type="line"/>
+      <point x="237" y="79" type="line"/>
+      <point x="312" y="79" type="line"/>
+      <point x="312" y="183" type="line"/>
+      <point x="30" y="183" type="line"/>
+      <point x="396" y="658" type="line"/>
+      <point x="396" y="264" type="line"/>
+      <point x="493" y="264" type="line"/>
+      <point x="493" y="183" type="line"/>
+      <point x="396" y="183" type="line"/>
+      <point x="396" y="79" type="line"/>
+      <point x="479" y="79" type="line"/>
     </contour>
     <contour>
-      <point x="319" y="413" type="line"/>
-      <point x="205" y="264" type="line"/>
-      <point x="319" y="264" type="line"/>
+      <point x="312" y="413" type="line"/>
+      <point x="198" y="264" type="line"/>
+      <point x="312" y="264" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-08-09 10:34:27 +0000</string>
+      <string>2024-09-27 08:26:21 +0000</string>
     </dict>
   </lib>
 </glyph>
