@@ -705,14 +705,7 @@
     </array>
     <key>public.kern2.a</key>
     <array>
-      <string>a</string>
       <string>ae</string>
-      <string>aacute</string>
-      <string>acircumflex</string>
-      <string>adieresis</string>
-      <string>agrave</string>
-      <string>aring</string>
-      <string>atilde</string>
     </array>
     <key>public.kern2.acute</key>
     <array>
@@ -855,10 +848,6 @@
     <array>
       <string>fraction</string>
     </array>
-    <key>public.kern2.g</key>
-    <array>
-      <string>g</string>
-    </array>
     <key>public.kern2.grave</key>
     <array>
       <string>grave</string>
@@ -946,12 +935,20 @@
     </array>
     <key>public.kern2.o</key>
     <array>
+      <string>a</string>
       <string>c</string>
       <string>d</string>
       <string>e</string>
+      <string>g</string>
       <string>o</string>
       <string>q</string>
       <string>cent</string>
+      <string>aacute</string>
+      <string>acircumflex</string>
+      <string>adieresis</string>
+      <string>agrave</string>
+      <string>aring</string>
+      <string>atilde</string>
       <string>ccedilla</string>
       <string>eacute</string>
       <string>ecircumflex</string>
