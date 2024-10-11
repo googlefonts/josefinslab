@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.1">
+<designspace format="3.0">
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="700" default="100">
       <map input="100" output="14"/>
+      <map input="200" output="21"/>
       <map input="300" output="28"/>
       <map input="400" output="41"/>
+      <map input="500" output="50"/>
       <map input="600" output="63"/>
       <map input="700" output="83"/>
     </axis>
@@ -25,10 +27,18 @@
       </location>
     </source>
   </sources>
+
   <instances>
     <instance name="Josefin Slab Thin Italic" familyname="Josefin Slab" stylename="Thin Italic" filename="instance_ufos/JosefinSlab-ThinItalic.ufo" stylemapfamilyname="Josefin Slab Thin" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="14"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Josefin Slab ExtraLight Italic" familyname="Josefin Slab" stylename="ExtraLight Italic" filename="instance_ufos/JosefinSlab-ExtraLightItalic.ufo" stylemapfamilyname="Josefin Slab ExtraLight" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="21"/>
       </location>
       <kerning/>
       <info/>
@@ -43,6 +53,13 @@
     <instance name="Josefin Slab Italic" familyname="Josefin Slab" stylename="Italic" filename="instance_ufos/JosefinSlab-Italic.ufo" stylemapfamilyname="Josefin Slab" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="41"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Josefin Slab Medium Italic" familyname="Josefin Slab" stylename="Medium Italic" filename="instance_ufos/JosefinSlab-MediumItalic.ufo" stylemapfamilyname="Josefin Slab Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="50"/>
       </location>
       <kerning/>
       <info/>
