@@ -6,6 +6,7 @@ axisOrder:
   - ital
 familyName: Josefin Slab
 cleanUp: true
+removeOutlineOverlaps: false
 stat:
   JosefinSlab[wght].ttf:
   - name: Weight
