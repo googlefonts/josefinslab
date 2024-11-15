@@ -17,37 +17,115 @@
     </array>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
-      <string>AABACADAEAFAGAHAIAJAKALAMANAOAPAQARASATAUAVAWAXAYAZA
-BABBCBDBEBFBGBHBIBJBKBLBMBNBOBPBQBRBSBTBUBVBWBXBYBZB
-CACBCCDCECFCGCHCICJCKCLCMCNCOCPCQCRCSCTCUCVCWCXCYCZC
-DADBDCDDEDFDGDHDIDJDKDLDMDNDODPDQDRDSDTDUDVDWDXDYDZD
-EAEBECEDEEFEGEHEIEJEKELEMENEOEPEQERESETEUEVEWEXEYEZE
-FAFBFCFDFEFFGFHFIFJFKFLFMFNFOFPFQFRFSFTFUFVFWFXFYFZF
-GAGBGCGDGEGFGGHGIGJGKGLGMGNGOGPGQGRGS
-GTGUGVGWGXGYGZG
-HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH
-IAIBICIDIEIFIGIHIIJIKILIMINIOIPIQIRISITIUIVIWIXIYIZI
-JAJBJCJDJEJFJGJHJIJJKJLJMJNJOJPJQJRJSJTJUJVJWJXJYJZJ
-KAKBKCKDKEKFKGKHKIKJKKLKMKNKOKPKQKRKSKTKUKVKWKXKYKZK
-LALBLCLDLELFLGLHLILJLKLLMLNLOLPLQLRLSLTLULVLWLXLYLZL
-MAMBMCMDMEMFMGMHMIMJMKMLMMNMOMPMQMRMSMTMUMVMWMXMYMZM
-NANBNCNDNENFNGNHNINJNKNLNMNNONPNQNRNSNTNUNVNWNXNYNZN
-OAOBOCODOEOFOGOHOIOJOKOLOMONOOPOQOROSOTOUOVOWOXOYOZO
-PAPBPCPDPEPFPGPHPIPJPKPLPMPNPOPPQPRPSPTPUPVPWPXPYPZP
-QAQBQCQDQEQFQGQHQIQJQKQLQMQNQOQPQQRQSQTQUQVQWQXQYQZQ
-RARBRCRDRERFRGRHRIRJRKRLRMRNRORPRQRRSRTRURVRWRX
-RYRZR
-SASBSCSDSESFSGSHSISJSKSLSMSNSOSPSQSRSSTSUSVSWSXSYSZS
-TATBTCTDTETFTGTHTITJTKTLTMTNTOTPTQTRTSTTUTVTWTXTYTZT
-UAUBUCUDUEUFUGUHUIUJUKULUMUNUOUPUQURUSUTUUVUWUXUYUZU
-VAVBVCVDVEVFVGVHVIVJVKVLVMVNVOVPVQVRVSVTVUVVWVXVYVZV RYAN WOW
-WAWBWCWDWEWFWGWHWIWJWKWLWMWNWOWPWQWRWSWTWUWVWWXWYWZW
-XAXBXCXDXEXFXGXHXIXJXKXLXMXNXOXPXQXRXSXTXUXVXWXXYXZX
-YAYBYCYDYEYFYGYHYIYJYKYLYMYNYOYPYQYRYSYTYUYVYWYXYYZY
-ZAZBZCZDZEZFZGZHZIZJZKZLZMZNZOZPZQZRZSZTZUZVZWZXZYZZ</string>
+      <string>
+-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-
+–a–b–c–d–e–f–g–h–i–j–k–l–m–n–o–p–q–r–s–t–u–v–w–x–y–z–
+—a—b—c—d—e—f—g—h—i—j—k—l—m—n—o—p—q—r—s—t—u—v—w—x—y—z—
+
+-A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z-
+–A–B–C–D–E–F–G–H–I–J–K–L–M–N–O–P–Q–R–S–T–U–V–W–X–Y–Z–
+—A—B—C—D—E—F—G—H—I—J—K—L—M—N—O—P—Q—R—S—T—U—V—W—X—Y—Z—
+
+.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z.
+,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,
+
+.A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.
+,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,
+
+a; b; c; d; e; f; g; h; i; j; k; l; m; n; o; p; q; r; s; t; u; v; w; x; y; z;
+a: b: c: d: e: f: g: h: i: j: k: l: m: n: o: p: q: r: s: t: u: v: w: x: y: z:
+
+A; B; C; D; E; F; G; H; I; J; K; L; M; N; O; P; Q; R; S; T; U; V; W; X; Y; Z;
+A: B: C: D: E: F: G: H: I: J: K: L: M: N: O: P: Q: R: S: T: U: V: W: X: Y: Z:
+
+//a//b//c//d//e//f//g//h//i//j//k//l//m//n//o//p//q//r//s//t//u//v//w//x//y//z//
+//A//B//C//D//E//F//G//H//I//J//K//L//M//N//O//P//Q//R//S//T//U//V//W//X//Y//Z//
+
+/backslash/backslash a/backslash/backslash b/backslash/backslash c/backslash/backslash d/backslash/backslash e/backslash/backslash f/backslash/backslash g/backslash/backslash h/backslash/backslash i/backslash/backslash j/backslash/backslash k/backslash/backslash l/backslash/backslash m/backslash/backslash n/backslash/backslash o/backslash/backslash p/backslash/backslash q/backslash/backslash r/backslash/backslash s/backslash/backslash t/backslash/backslash u/backslash/backslash v/backslash/backslash w/backslash/backslash x/backslash/backslash y/backslash/backslash z/backslash/backslash 
+/backslash/backslash A/backslash/backslash B/backslash/backslash C/backslash/backslash D/backslash/backslash E/backslash/backslash F/backslash/backslash G/backslash/backslash H/backslash/backslash I/backslash/backslash J/backslash/backslash K/backslash/backslash L/backslash/backslash M/backslash/backslash N/backslash/backslash O/backslash/backslash P/backslash/backslash Q/backslash/backslash R/backslash/backslash S/backslash/backslash T/backslash/backslash U/backslash/backslash V/backslash/backslash W/backslash/backslash X/backslash/backslash Y/backslash/backslash Z/backslash/backslash 
+
+a? b? c? d? e? f? g? h? i? j? k? l? m? n? o? p? q? r? s? t? u? v? w? x? y? z?
+A? B? C? D? E? F? G? H? I? J? K? L? M? N? O? P? Q? R? S? T? U? V? W? X? Y? Z?
+
+a! b! c! d! e! f! g! h! i! j! k! l! m! n! o! p! q! r! s! t! u! v! w! x! y! z!
+A! B! C! D! E! F! G! H! I! J! K! L! M! N! O! P! Q! R! S! T! U! V! W! X! Y! Z!
+
+“a” “b” “c” “d” “e” “f” “g” “h” “i” “j” “k” “l” “m” “n” “o” “p” “q” “r” “s” “t” “u” “v” “w” “x” “y” “z”
+“A” “B” “C” “D” “E” “F” “G” “H” “I” “J” “K” “L” “M” “N” “O” “P” “Q” “R” “S” “T” “U” “V” “W” “X” “Y” “Z”
+
+‘a’ ‘b’ ‘c’ ‘d’ ‘e’ ‘f’ ‘g’ ‘h’ ‘i’ ‘j’ ‘k’ ‘l’ ‘m’ ‘n’ ‘o’ ‘p’ ‘q’ ‘r’ ‘s’ ‘t’ ‘u’ ‘v’ ‘w’ ‘x’ ‘y’ ‘z’
+‘A’ ‘B’ ‘C’ ‘D’ ‘E’ ‘F’ ‘G’ ‘H’ ‘I’ ‘J’ ‘K’ ‘L’ ‘M’ ‘N’ ‘O’ ‘P’ ‘Q’ ‘R’ ‘S’ ‘T’ ‘U’ ‘V’ ‘W’ ‘X’ ‘Y’ ‘Z’
+
+’a’b’c’d’e’f’g’h’i’j’k’l’m’n’o’p’q’r’s’t’u’v’w’x’y’z’
+’A’B’C’D’E’F’G’H’I’J’K’L’M’N’O’P’Q’R’S’T’U’V’W’X’Y’Z’
+
+(a) (b) (c) (d) (e) (f) (g) (h) (i) (j) (k) (l) (m) (n) (o) (p) (q) (r) (s) (t) (u) (v) (w) (x) (y) (z)
+(A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K) (L) (M) (N) (O) (P) (Q) (R) (S) (T) (U) (V) (W) (X) (Y) (Z)
+{a} {b} {c} {d} {e} {f} {g} {h} {i} {j} {k} {l} {m} {n} {o} {p} {q} {r} {s} {t} {u} {v} {w} {x} {y} {z}
+{A} {B} {C} {D} {E} {F} {G} {H} {I} {J} {K} {L} {M} {N} {O} {P} {Q} {R} {S} {T} {U} {V} {W} {X} {Y} {Z}
+[a] [b] [c] [d] [e] [f] [g] [h] [i] [j] [k] [l] [m] [n] [o] [p] [q] [r] [s] [t] [u] [v] [w] [x] [y] [z]
+[A] [B] [C] [D] [E] [F] [G] [H] [I] [J] [K] [L] [M] [N] [O] [P] [Q] [R] [S] [T] [U] [V] [W] [X] [Y] [Z]
+
+
+010203040506070809000
+111213141516171819101
+212223242526272829202
+313233343536373839303
+414243444546474849404
+515253545556575859505
+616263646566676869606
+717273747576777879707
+818283848586878889808
+919293949596979899909
+
+00100200300400500600700800900000
+11111211311411511611711811911011
+22122222322422522622722822922022
+33133233333433533633733833933033
+44144244344444544644744844944044
+55155255355455555655755855955055
+66166266366466566666766866966066
+77177277377477577677777877977077
+88188288388488588688788888988088
+99199299399499599699799899999099
+
+0001000200030004000500060007000800090000000
+1111111211131114111511161117111811191110111
+2221222222232224222522262227222822292220222
+3331333233333334333533363337333833393330333
+4441444244434444444544464447444844494440444
+5551555255535554555555565557555855595550555
+6661666266636664666566666667666866696660666
+7771777277737774777577767777777877797770777
+8881888288838884888588868887888888898880888
+9991999299939994999599969997999899999990999
+
+.1.2.3.4.5.6.7.8.9.0.
+,1,2,3,4,5,6,7,8,9,0,
+
+-1-2-3-4-5-6-7-8-9-0-
+–1–2–3–4–5–6–7–8–9–0–
+
+$12 $23 $34 $45 $56 $67 $78 $89 $90 $01
+€12 €23 €34 €45 €56 €67 €78 €89 €90 €01
+£12 £23 £34 £45 £56 £67 £78 £89 £90 £01
+¥12 ¥23 ¥34 ¥45 ¥56 ¥67 ¥78 ¥89 ¥90 ¥01
+12 23 34 45 56 67 78 89 90 01
+12¢ 23¢ 34¢ 45¢ 56¢ 67¢ 78¢ 89¢ 90¢ 01¢
+
+WOW.” ,’ ,” .’ ?” ?’ !” !’
+
+l'A d'oeuvre d'œ 
+</string>
+      <string>A"AA'A
+A`A
+«W»W«V«V»V»A»A»A«A
+A‘AD’A
+A“A”A
+Kvw</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3316</string>
+    <string>3324</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.fontMaster.customParameters</key>
