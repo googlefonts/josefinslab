@@ -47,7 +47,7 @@ GitPython==3.1.43
 glyphsets==1.0.0
 glyphsLib==6.9.2
 h11==0.14.0
-idna==3.7
+idna==3.15
 importlib_resources==6.4.0
 Jinja2==3.1.4
 lxml==5.2.2
